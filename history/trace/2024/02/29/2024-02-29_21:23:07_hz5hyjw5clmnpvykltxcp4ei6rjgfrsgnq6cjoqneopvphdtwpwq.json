@@ -1,0 +1,1 @@
+{"id":"hz5hyjw5clmnpvykltxcp4ei6rjgfrsgnq6cjoqneopvphdtwpwq","stamp":"2024-02-29T21:23:07.569116693Z","payload":{"op":"account_transfer","note":"directive from GitHub issue #388","args":{"amount":{"asset":"plural","quantity":2000000},"from":"user:glenweyl","to":"pmp+matching"}}}

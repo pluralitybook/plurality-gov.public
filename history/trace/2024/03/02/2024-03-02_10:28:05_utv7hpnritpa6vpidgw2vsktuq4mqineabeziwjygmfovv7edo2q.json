@@ -1,0 +1,1 @@
+{"id":"utv7hpnritpa6vpidgw2vsktuq4mqineabeziwjygmfovv7edo2q","stamp":"2024-03-02T10:28:05.259469734Z","payload":{"op":"account_issue","note":"directive from GitHub issue #401","args":{"amount":{"asset":"plural","quantity":100000},"from":"treasury+issue","to":"user:gregctwang"}}}

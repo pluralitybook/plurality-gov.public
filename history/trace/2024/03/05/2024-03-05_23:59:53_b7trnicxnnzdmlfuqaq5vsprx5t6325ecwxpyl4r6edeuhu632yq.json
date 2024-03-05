@@ -1,0 +1,1 @@
+{"id":"b7trnicxnnzdmlfuqaq5vsprx5t6325ecwxpyl4r6edeuhu632yq","stamp":"2024-03-05T23:59:53.350785187Z","payload":{"op":"account_transfer","note":"vote charge for ballot waimea/motion/priority_poll/21","args":{"amount":{"asset":"plural","quantity":1000200.01},"from":"user:audreyt-gov4git","to":"ballot_escrow:waimea/motion/priority_poll/21"}}}

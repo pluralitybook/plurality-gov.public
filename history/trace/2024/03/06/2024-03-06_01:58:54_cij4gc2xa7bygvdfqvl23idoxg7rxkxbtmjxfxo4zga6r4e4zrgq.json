@@ -1,0 +1,1 @@
+{"id":"cij4gc2xa7bygvdfqvl23idoxg7rxkxbtmjxfxo4zga6r4e4zrgq","stamp":"2024-03-06T01:58:54.057248075Z","payload":{"op":"account_issue","note":"directive from GitHub issue #450","args":{"amount":{"asset":"plural","quantity":250000},"from":"treasury+issue","to":"user:geordanshannon"}}}

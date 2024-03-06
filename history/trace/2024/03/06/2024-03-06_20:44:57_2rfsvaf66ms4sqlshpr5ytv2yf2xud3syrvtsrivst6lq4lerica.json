@@ -1,0 +1,1 @@
+{"id":"2rfsvaf66ms4sqlshpr5ytv2yf2xud3syrvtsrivst6lq4lerica","stamp":"2024-03-06T20:44:57.031086296Z","payload":{"op":"account_transfer","note":"vote charge for ballot waimea/motion/priority_poll/159","args":{"amount":{"asset":"plural","quantity":25},"from":"user:jason-entenmann","to":"ballot_escrow:waimea/motion/priority_poll/159"}}}

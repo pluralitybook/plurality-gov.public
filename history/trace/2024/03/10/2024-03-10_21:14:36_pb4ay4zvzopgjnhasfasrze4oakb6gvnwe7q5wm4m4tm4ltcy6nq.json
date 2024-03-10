@@ -1,0 +1,1 @@
+{"id":"pb4ay4zvzopgjnhasfasrze4oakb6gvnwe7q5wm4m4tm4ltcy6nq","stamp":"2024-03-10T21:14:36.677801897Z","payload":{"op":"account_transfer","note":"refund from cancelling ballot waimea/motion/priority_poll/38","args":{"amount":{"asset":"plural","quantity":40000},"from":"ballot_escrow:waimea/motion/priority_poll/38","to":"user:glenweyl"}}}

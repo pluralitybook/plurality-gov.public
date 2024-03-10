@@ -1,0 +1,1 @@
+{"id":"2s5t3eqfdh2yeywkaypterybarnvfcipdwmeilkkqpt7wtq6yxnq","stamp":"2024-03-10T21:14:35.939331175Z","payload":{"motion":{"open":null,"close":null,"cancel":{"id":"47","type":"concern","policy":"waimea-concern","receipts":[{"account":"user:glenweyl","type":"refund","amount":{"asset":"plural","quantity":490000}}]}}}}

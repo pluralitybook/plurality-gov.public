@@ -1,0 +1,1 @@
+{"id":"vd26nlex7almdnrmjayf6up4zkyypopxysh3exopa3s7gdky4ykq","stamp":"2024-03-10T04:13:03.888639802Z","payload":{"op":"account_issue","note":"directive from GitHub issue #488","args":{"amount":{"asset":"plural","quantity":70000},"from":"treasury+issue","to":"user:wesc"}}}

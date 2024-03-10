@@ -1,0 +1,1 @@
+{"id":"raeejbn6kriteqgwq36pf3m5hzsq45bbn5oanqjb5tfzxzfy24rq","stamp":"2024-03-10T22:21:44.657892755Z","payload":{"op":"account_issue","note":"directive from GitHub issue #511","args":{"amount":{"asset":"plural","quantity":150000},"from":"treasury+issue","to":"user:michelezanini"}}}

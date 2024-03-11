@@ -1,0 +1,1 @@
+{"id":"linscqjbv3bhyrkats4brdyvnsnechgarsuoeg2az4gsl2ougxdq","stamp":"2024-03-11T04:41:51.618846435Z","payload":{"op":"account_issue","note":"directive from GitHub issue #517","args":{"amount":{"asset":"plural","quantity":50000},"from":"treasury+issue","to":"user:jamesallenevans"}}}

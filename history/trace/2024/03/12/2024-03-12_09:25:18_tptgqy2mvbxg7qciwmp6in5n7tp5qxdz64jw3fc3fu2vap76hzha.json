@@ -1,0 +1,1 @@
+{"id":"tptgqy2mvbxg7qciwmp6in5n7tp5qxdz64jw3fc3fu2vap76hzha","stamp":"2024-03-12T09:25:18.199818683Z","payload":{"op":"account_issue","note":"directive from GitHub issue #534","args":{"amount":{"asset":"plural","quantity":30625},"from":"treasury+issue","to":"user:lauerj"}}}

@@ -1,0 +1,1 @@
+{"id":"cihkt2zmlp6hrouiy5eqhefdr26vfedgb7e5lmckcyjusyapul5q","stamp":"2024-03-13T16:26:18.112093628Z","payload":{"op":"account_transfer_overdraft","note":"directive from GitHub issue #551","args":{"amount":{"asset":"plural","quantity":5000},"from":"treasury+issue","to":"user:bioregionaltracy"}}}

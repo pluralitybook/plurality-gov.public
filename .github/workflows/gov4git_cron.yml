@@ -3,7 +3,7 @@ name: Governance cron
 on:
      workflow_dispatch: # allows manual triggering
      schedule:
-     - cron: '*/2 * * * *'  # every 2 minutes
+     - cron: '*/12 * * * *'  # every 12 minutes
 
 jobs:
      sync_github:

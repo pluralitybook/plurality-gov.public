@@ -1,0 +1,1 @@
+{"id":"7c4o2e7jvxby7q2aq2zyt7s6slmin3toeunprphpmhe3bbdbbm5a","stamp":"2024-03-19T20:49:20.792024648Z","payload":{"op":"account_issue","note":"directive from GitHub issue #716","args":{"amount":{"asset":"plural","quantity":2000},"from":"treasury+issue","to":"user:gnomevan"}}}

@@ -1,0 +1,1 @@
+{"id":"qnz6vd3svk5saqbhzqk4ssohr75qlooptp45wkyhuav3jobsdhda","stamp":"2024-03-19T15:19:09.709679207Z","payload":{"op":"account_issue","note":"directive from GitHub issue #710","args":{"amount":{"asset":"plural","quantity":15000},"from":"treasury+issue","to":"user:gardenenigma"}}}

@@ -1,0 +1,1 @@
+{"id":"q2prxndf6rdqiv2dvoe3iwzfm4kdtc5rotmtzrt2ki2cxdqjqhnq","stamp":"2024-03-19T18:20:49.95311263Z","payload":{"op":"account_transfer","note":"refund from cancelling ballot pmp/motion/priority_poll/167","args":{"amount":{"asset":"plural","quantity":100},"from":"ballot_escrow:pmp/motion/priority_poll/167","to":"user:glenweyl"}}}

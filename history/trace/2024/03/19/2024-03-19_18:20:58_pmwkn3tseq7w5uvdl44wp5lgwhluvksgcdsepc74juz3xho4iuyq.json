@@ -1,0 +1,1 @@
+{"id":"pmwkn3tseq7w5uvdl44wp5lgwhluvksgcdsepc74juz3xho4iuyq","stamp":"2024-03-19T18:20:58.719294401Z","payload":{"op":"account_transfer","note":"refund from cancelling ballot waimea/motion/priority_poll/26","args":{"amount":{"asset":"plural","quantity":100},"from":"ballot_escrow:waimea/motion/priority_poll/26","to":"user:jason-entenmann"}}}

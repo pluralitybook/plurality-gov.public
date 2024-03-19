@@ -1,0 +1,1 @@
+{"id":"2ctl44gvszhzjfm2iyy5qwqxuy4crjrjkxjdpwnykvv7w33n73ha","stamp":"2024-03-19T18:20:56.048079895Z","payload":{"op":"account_transfer","note":"refund from cancelling ballot waimea/motion/priority_poll/159","args":{"amount":{"asset":"plural","quantity":400},"from":"ballot_escrow:waimea/motion/priority_poll/159","to":"user:shaudub"}}}

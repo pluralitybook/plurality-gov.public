@@ -1,0 +1,1 @@
+{"id":"22zhggxzf5g5a7iz4t55jmwjl5rqozlg7jpgzhzclgetcwxxftda","stamp":"2024-03-19T18:20:48.013105982Z","payload":{"op":"account_transfer","note":"refund from cancelling ballot pmp/motion/priority_poll/22","args":{"amount":{"asset":"plural","quantity":10000},"from":"ballot_escrow:pmp/motion/priority_poll/22","to":"user:glenweyl"}}}

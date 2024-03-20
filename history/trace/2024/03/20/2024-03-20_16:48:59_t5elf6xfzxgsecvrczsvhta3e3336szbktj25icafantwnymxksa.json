@@ -1,0 +1,1 @@
+{"id":"t5elf6xfzxgsecvrczsvhta3e3336szbktj25icafantwnymxksa","stamp":"2024-03-20T16:48:59.506459011Z","payload":{"op":"account_issue","note":"directive from GitHub issue #726","args":{"amount":{"asset":"plural","quantity":50000},"from":"treasury+issue","to":"user:41hulk"}}}

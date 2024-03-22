@@ -1,0 +1,1 @@
+{"id":"m7nnbou2cfurmxfqv246fjawoy2bwiayqkp2uitk2zpf6ae4tlxq","stamp":"2024-03-22T01:58:55.850004031Z","payload":{"op":"account_issue","note":"directive from GitHub issue #737","args":{"amount":{"asset":"plural","quantity":5000},"from":"treasury+issue","to":"user:jakehirschallen"}}}

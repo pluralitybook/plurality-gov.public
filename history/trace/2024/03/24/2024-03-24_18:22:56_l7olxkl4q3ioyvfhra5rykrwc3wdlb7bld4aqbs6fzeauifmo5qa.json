@@ -1,0 +1,1 @@
+{"id":"l7olxkl4q3ioyvfhra5rykrwc3wdlb7bld4aqbs6fzeauifmo5qa","stamp":"2024-03-24T18:22:56.999966406Z","payload":{"op":"account_issue","note":"directive from GitHub issue #816","args":{"amount":{"asset":"plural","quantity":200000},"from":"treasury+issue","to":"user:nishio"}}}

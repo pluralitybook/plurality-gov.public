@@ -1,0 +1,1 @@
+{"id":"laxelde7fqr334cem3kik7vqdzap4j2ztn3tizl73u3fhbqxpwba","stamp":"2024-03-27T13:19:22.165614151Z","payload":{"op":"account_issue","note":"directive from GitHub issue #829","args":{"amount":{"asset":"plural","quantity":5000},"from":"treasury+issue","to":"user:armarmgc"}}}

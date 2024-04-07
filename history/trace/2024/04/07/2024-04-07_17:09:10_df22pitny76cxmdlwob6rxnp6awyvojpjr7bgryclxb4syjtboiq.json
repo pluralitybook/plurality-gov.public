@@ -1,0 +1,1 @@
+{"id":"df22pitny76cxmdlwob6rxnp6awyvojpjr7bgryclxb4syjtboiq","stamp":"2024-04-07T17:09:10.089810997Z","payload":{"op":"account_issue","note":"directive from GitHub issue #853","args":{"amount":{"asset":"plural","quantity":1000},"from":"treasury+issue","to":"user:angryangrymouse"}}}

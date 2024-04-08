@@ -1,0 +1,1 @@
+{"id":"43gudsvextw43v6p2ij2fjnpeokpfhcy6pmie67fqjb4atlzu5aa","stamp":"2024-04-08T15:09:41.408620505Z","payload":{"op":"account_issue","note":"directive from GitHub issue #858","args":{"amount":{"asset":"plural","quantity":100000},"from":"treasury+issue","to":"user:michelezanini"}}}

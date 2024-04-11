@@ -1,0 +1,1 @@
+{"id":"mdbshnmopop5eqcot2pnyzvz4ubqoz3zbaodgk4zj2rwicvgrdua","stamp":"2024-04-11T20:45:14.937546373Z","payload":{"op":"account_issue","note":"directive from GitHub issue #876","args":{"amount":{"asset":"plural","quantity":100000},"from":"treasury+issue","to":"user:andreabonac"}}}

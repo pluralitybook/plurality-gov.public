@@ -1,0 +1,1 @@
+{"id":"5hzeugnzskezolenbfglmc5y3qthhrx3lc7jzqz7oicritkmjfyq","stamp":"2024-04-15T15:57:13.212962962Z","payload":{"op":"account_transfer","note":"vote charge for ballot pmp/motion/priority_poll/874","args":{"amount":{"asset":"plural","quantity":0},"from":"user:fossj117","to":"ballot_escrow:pmp/motion/priority_poll/874"}}}

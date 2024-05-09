@@ -1,0 +1,1 @@
+{"id":"2nb7hp6didqx2tka3yboycu66hbyuilzmgfipngnkwhqutsaea7a","stamp":"2024-05-09T15:04:56.036595566Z","payload":{"op":"account_transfer","note":"vote charge for ballot pmp/motion/priority_poll/896","args":{"amount":{"asset":"plural","quantity":400},"from":"user:gardenenigma","to":"ballot_escrow:pmp/motion/priority_poll/896"}}}

@@ -1,0 +1,1 @@
+{"id":"ruelsiykksgqxe4shsawluoznra532kslcumvfnvy2al3mithisa","stamp":"2024-05-09T16:35:28.166879722Z","payload":{"op":"account_transfer","note":"vote charge for ballot waimea/motion/priority_poll/21","args":{"amount":{"asset":"plural","quantity":0},"from":"user:glenweyl","to":"ballot_escrow:waimea/motion/priority_poll/21"}}}

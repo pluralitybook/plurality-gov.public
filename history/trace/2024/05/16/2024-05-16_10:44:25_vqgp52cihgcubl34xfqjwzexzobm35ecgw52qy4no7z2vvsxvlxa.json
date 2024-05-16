@@ -1,0 +1,1 @@
+{"id":"vqgp52cihgcubl34xfqjwzexzobm35ecgw52qy4no7z2vvsxvlxa","stamp":"2024-05-16T10:44:25.626019657Z","payload":{"op":"account_transfer","note":"donation to matching fund for proposal 914","args":{"amount":{"asset":"plural","quantity":24},"from":"motion:914+pmp-proposal-reward","to":"pmp+matching"}}}

@@ -1,0 +1,1 @@
+{"id":"g3u4rkm44qctehekgjfwz7xit2wdx4bujg7rpr32ufyp3py7r2ma","stamp":"2024-05-16T12:56:36.554967998Z","payload":{"op":"account_transfer","note":"vote charge for ballot pmp/motion/approval_poll/910","args":{"amount":{"asset":"plural","quantity":0},"from":"user:shaudub","to":"ballot_escrow:pmp/motion/approval_poll/910"}}}

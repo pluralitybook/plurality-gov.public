@@ -1,0 +1,1 @@
+{"id":"o65mlpltf2iu7arxqrzwpk2ngnc7uvx4aoclpitua7cs6uwbp3ra","stamp":"2024-05-16T12:56:42.971733151Z","payload":{"op":"account_transfer","note":"donation to matching fund for proposal 910","args":{"amount":{"asset":"plural","quantity":475},"from":"motion:910+pmp-proposal-reward","to":"pmp+matching"}}}

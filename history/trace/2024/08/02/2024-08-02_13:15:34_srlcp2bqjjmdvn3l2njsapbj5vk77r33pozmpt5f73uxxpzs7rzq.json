@@ -1,0 +1,1 @@
+{"id":"srlcp2bqjjmdvn3l2njsapbj5vk77r33pozmpt5f73uxxpzs7rzq","stamp":"2024-08-02T13:15:34.419718348Z","payload":{"op":"account_transfer","note":"vote charge for ballot pmp/motion/approval_poll/954","args":{"amount":{"asset":"plural","quantity":0},"from":"user:audreyt-gov4git","to":"ballot_escrow:pmp/motion/approval_poll/954"}}}

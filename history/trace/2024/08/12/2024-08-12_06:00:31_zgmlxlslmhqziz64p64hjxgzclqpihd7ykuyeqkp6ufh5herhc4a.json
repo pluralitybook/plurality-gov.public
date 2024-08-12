@@ -1,0 +1,1 @@
+{"id":"zgmlxlslmhqziz64p64hjxgzclqpihd7ykuyeqkp6ufh5herhc4a","stamp":"2024-08-12T06:00:31.680310457Z","payload":{"op":"account_transfer","note":"closing ballot pmp/motion/approval_poll/960","args":{"amount":{"asset":"plural","quantity":81},"from":"ballot_escrow:pmp/motion/approval_poll/960","to":"motion:960+pmp-proposal-reward"}}}

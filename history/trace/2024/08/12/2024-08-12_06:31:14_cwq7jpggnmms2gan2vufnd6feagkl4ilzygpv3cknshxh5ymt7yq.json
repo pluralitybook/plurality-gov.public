@@ -1,0 +1,1 @@
+{"id":"cwq7jpggnmms2gan2vufnd6feagkl4ilzygpv3cknshxh5ymt7yq","stamp":"2024-08-12T06:31:14.60263674Z","payload":{"op":"account_issue","note":"directive from GitHub issue #982","args":{"amount":{"asset":"plural","quantity":1000},"from":"treasury+issue","to":"user:tofuswang"}}}

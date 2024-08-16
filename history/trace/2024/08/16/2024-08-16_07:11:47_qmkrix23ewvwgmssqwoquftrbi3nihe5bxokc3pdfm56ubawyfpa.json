@@ -1,0 +1,1 @@
+{"id":"qmkrix23ewvwgmssqwoquftrbi3nihe5bxokc3pdfm56ubawyfpa","stamp":"2024-08-16T07:11:47.67815451Z","payload":{"op":"account_issue","note":"directive from GitHub issue #989","args":{"amount":{"asset":"plural","quantity":2000},"from":"treasury+issue","to":"user:florihas"}}}

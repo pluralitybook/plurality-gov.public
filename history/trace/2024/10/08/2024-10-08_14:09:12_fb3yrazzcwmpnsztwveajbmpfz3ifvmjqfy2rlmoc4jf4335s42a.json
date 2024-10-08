@@ -1,0 +1,1 @@
+{"id":"fb3yrazzcwmpnsztwveajbmpfz3ifvmjqfy2rlmoc4jf4335s42a","stamp":"2024-10-08T14:09:12.206912077Z","payload":{"op":"account_issue","note":"directive from GitHub issue #1031","args":{"amount":{"asset":"plural","quantity":50000},"from":"treasury+issue","to":"user:mashbean"}}}

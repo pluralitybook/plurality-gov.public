@@ -1,0 +1,1 @@
+{"id":"mkcfejkw4tlgcqljbdiiubnau2vpmo6ph6mryxzquz35fr5ecu6a","stamp":"2024-10-22T19:57:35.013053922Z","payload":{"op":"account_transfer","note":"reviewer reward for proposal 1024","args":{"amount":{"asset":"plural","quantity":100},"from":"motion:1024+pmp-proposal-reward","to":"user:glenweyl"}}}

@@ -1,0 +1,1 @@
+{"id":"uz6bwhogcu56netdln5slmu2ictuhxdbllpmmgxkpdxpe5ag7wnq","stamp":"2024-12-13T14:39:48.066872651Z","payload":{"op":"account_transfer","note":"reviewer reward for proposal 957","args":{"amount":{"asset":"plural","quantity":700},"from":"motion:957+pmp-proposal-reward","to":"user:shaudub"}}}

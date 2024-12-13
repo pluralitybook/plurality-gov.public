@@ -1,0 +1,1 @@
+{"id":"cvviprlexnc3j3ng3hhex5tk2fvyqa6n3r4ejnk7mg5wxwz6ihba","stamp":"2024-12-13T14:39:48.066430277Z","payload":{"op":"account_transfer","note":"closing ballot pmp/motion/approval_poll/957","args":{"amount":{"asset":"plural","quantity":122644},"from":"ballot_escrow:pmp/motion/approval_poll/957","to":"motion:957+pmp-proposal-reward"}}}

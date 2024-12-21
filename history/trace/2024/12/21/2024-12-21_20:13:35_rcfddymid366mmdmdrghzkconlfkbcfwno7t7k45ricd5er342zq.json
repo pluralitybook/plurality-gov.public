@@ -1,0 +1,1 @@
+{"id":"rcfddymid366mmdmdrghzkconlfkbcfwno7t7k45ricd5er342zq","stamp":"2024-12-21T20:13:35.101405526Z","payload":{"op":"account_transfer","note":"donation to matching fund for proposal 1050","args":{"amount":{"asset":"plural","quantity":224},"from":"motion:1050+pmp-proposal-reward","to":"pmp+matching"}}}

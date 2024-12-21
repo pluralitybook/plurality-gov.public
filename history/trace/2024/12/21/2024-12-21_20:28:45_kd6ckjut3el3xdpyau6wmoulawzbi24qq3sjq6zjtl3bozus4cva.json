@@ -1,0 +1,1 @@
+{"id":"kd6ckjut3el3xdpyau6wmoulawzbi24qq3sjq6zjtl3bozus4cva","stamp":"2024-12-21T20:28:45.204758705Z","payload":{"op":"account_transfer","note":"donation to matching fund for proposal 1043","args":{"amount":{"asset":"plural","quantity":1155},"from":"motion:1043+pmp-proposal-reward","to":"pmp+matching"}}}

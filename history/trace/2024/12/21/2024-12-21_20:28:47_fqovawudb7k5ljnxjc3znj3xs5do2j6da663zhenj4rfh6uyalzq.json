@@ -1,0 +1,1 @@
+{"id":"fqovawudb7k5ljnxjc3znj3xs5do2j6da663zhenj4rfh6uyalzq","stamp":"2024-12-21T20:28:47.477462009Z","payload":{"op":"account_issue","note":"directive from GitHub issue #1054","args":{"amount":{"asset":"plural","quantity":50000},"from":"treasury+issue","to":"user:taiyou"}}}

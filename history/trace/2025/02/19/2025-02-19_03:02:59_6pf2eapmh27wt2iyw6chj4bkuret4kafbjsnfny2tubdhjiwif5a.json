@@ -1,0 +1,1 @@
+{"id":"6pf2eapmh27wt2iyw6chj4bkuret4kafbjsnfny2tubdhjiwif5a","stamp":"2025-02-19T03:02:59.540931385Z","payload":{"op":"account_transfer","note":"bounty for proposal 1061 was donated","args":{"amount":{"asset":"plural","quantity":0},"from":"motion:1061+pmp-proposal-bounty","to":"pmp+matching"}}}

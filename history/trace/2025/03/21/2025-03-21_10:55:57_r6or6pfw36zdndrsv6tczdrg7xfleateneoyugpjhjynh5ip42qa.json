@@ -1,0 +1,1 @@
+{"id":"r6or6pfw36zdndrsv6tczdrg7xfleateneoyugpjhjynh5ip42qa","stamp":"2025-03-21T10:55:57.568529715Z","payload":{"op":"account_issue","note":"directive from GitHub issue #1072","args":{"amount":{"asset":"plural","quantity":250000},"from":"treasury+issue","to":"user:akinorioyama"}}}
